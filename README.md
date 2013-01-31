@@ -6,9 +6,22 @@ Openwear backpack with mix of Irish motifs and moon spacesuit.
 Content
 =======
 
+The goal is to have to following:
 * presentation of the Irish Moon Backpack
-* sewing pattern
+* material template
 * make instrutions
+
+File description
+================
+
+* sacoche_a_dos.svg :
+This is the first draft and the targeted rendering.
+* irish_moon_backpack.svg :
+The specifications of the backpack.
+* material_template.svg :
+The templates to cut the material.
+* leather_interlace.svg :
+The file for the laser cutter.
 
 License
 =======

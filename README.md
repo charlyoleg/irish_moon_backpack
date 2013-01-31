@@ -6,7 +6,6 @@ Openwear backpack with mix of Irish motifs and moon spacesuit.
 Content
 =======
 
-The goal is to have to following:
 * presentation of the Irish Moon Backpack
 * material template
 * make instrutions
